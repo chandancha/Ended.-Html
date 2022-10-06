@@ -6,8 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="description" content="free web sms love quotes funny romantic attitude friend" />
 <meta name="keywords" content="HTML,CSS,XML,JavaScript" />
-<style type="text/css;>
-<!--
+<style type="text/css;></style>
+
 body {
 	margin: 0;  padding: 0;  margin-bottom: 15px;  margin-top: 8px;
 	background: #77b;
