@@ -8,11 +8,11 @@
 <meta name="keywords" content="HTML,CSS,XML,JavaScript" />
 <style type="text/css;></style>
 
-body {
+<body> {
 	margin: 0;  padding: 0;  margin-bottom: 15px;  margin-top: 8px;
 	background: #77b;
 }
-body, td {
+<body> td {
 	font: 14px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
 	}
 #subTitle {
@@ -56,7 +56,7 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 .tblRegular td    { padding: 6px;  background-image: url(fade.gif);  border: 2px solid #99c; }
 .tblHeaderColor, .tblHeaderColor td { background: #99c; }
 .tblNoBorder td   { border: 0; }
-// -->
+
 </style>
 </head>
 <body>
